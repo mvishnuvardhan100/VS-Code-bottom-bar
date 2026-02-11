@@ -11,8 +11,8 @@
   color: #9ba3b4;
   display: flex;
   padding-bottom: 15px;
-  padding-top: 15px;
-  padding-left: 25px;
+  padding-top: 20px;
+  padding-left: 30px;
   padding-right: 25px;
 }
 
@@ -42,7 +42,7 @@
 }
 
 .innerContainer5 {
-  font-size: 18px;
+  font-size: 17px;
   font-weight: 500;
 }
 
